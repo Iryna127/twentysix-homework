@@ -1,0 +1,17 @@
+.wrapper__home {
+width: 1100px;
+margin: 0 auto;
+display: flex;
+flex-direction:column;
+align-items: center;
+background-color: ghostwhite;
+}
+.home__image {
+    width: 800px;
+    margin: 0px 0px 50px 0px;
+}
+.home__name {
+    color: rgb(40, 42, 44);
+    text-shadow: 1px 1px 1px rgb(88, 231, 63);
+}
+

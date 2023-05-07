@@ -1,0 +1,21 @@
+.wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+.episode-block {
+  background-color: rgb(244, 238, 249);
+}
+.episode-name {
+  color: rgb(24, 44, 45);
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.buttons {
+  width: 500px;
+  margin: 0 auto;
+}
+.block {
+  display: flex;
+  flex-direction: column;
+}
